@@ -1,6 +1,8 @@
 ascii-js
 ========
 
+Inspired by [https://github.com/maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces)
+
 ASCII faces generated using JavaScript
 
 	console.log(face.muscles);
@@ -18,10 +20,23 @@ All the faces:
 	    "coffee": "( ˘▽˘)っ♨",
 	    "beer": "( -_-)旦~",
 	    "highfive": "( 。・_・。)人(。・_・。 )",
+	    "thumbsup": "凸(｀0´)凸",
 	    "crosseye": "✖‿✖",
 	    "flex": "╭ (oㅇ‿ o#)ᕗ",
 	    "muscles": "ᕦ(ò_óˇ)ᕤ",
-	    "peace" : "✌(꒡͡ ો ̼̮ ꒡͡✌)",
-	    "glasses" : "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄",
-	    "skeleton": "(˼●̙̂ ̟ ̟̎ ̟ ̘●̂˻)"
+	    "peace": "✌(꒡͡ ો ̼̮ ꒡͡✌)",
+	    "glasses": "(̿▀̿ ̿Ĺ̯̿̿▀̿ ̿)̄",
+	    "skeleton": "(˼●̙̂ ̟ ̟̎ ̟ ̘●̂˻)",
+	    "monocle": "ಠ_ರೃ",
+	    "kid": "٩(͡๏̯͡๏)۶",
+	    "goofy": "(⊙_☉)",
+	    "zombie": "[¬º-°]¬",
+	    "success": "(•̀ᴗ•́)و ̑̑",
+	    "chicken": "(`･⊝･´)",
+	    "ghost": "ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢",
+	    "mustache": "ಠ▃ಠ",
+	    "foff": "┌П┐(►˛◄)",
+	    "sigh": "(¬_¬)",
+	    "tired": "눈_눈",
+	    "sad": "ಥ⌣ಥ"
 	};
