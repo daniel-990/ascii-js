@@ -40,5 +40,9 @@ All the faces:
 	    "tired": "눈_눈",
 	    "sad": "ಥ⌣ಥ",
 	    "love": "♥‿♥",
-	    "wink": "◕‿↼"
+	    "wink": "◕‿↼",
+	    "jake": "(❍ᴥ❍ʋ)",
+	    "sonic": "੯ू•́ू ໒꒱⁼³₌₃",
+	    "spongebob": "|∴め ϖ め∴|",
+	    "pooh": "ʕ •́؈•̀ ₎"
 	};
